@@ -8,20 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Research"
+    url: /research/   
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Software"
+    url: /software/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Data"
+    url: /datasets/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

@@ -1,0 +1,10 @@
+---
+title: "Central Bank Independence data"
+collection: datasets
+type: "datasets"
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
+---
+
+Cristina Bodea and I updated our central bank independence data for 144 countries for the years 1970 through 2020. Compared to Bodea and Hicks 2015, we added an additional 66 countries and 12 more years of data. We are releasing the scores for all of the components of the CBI index as well. The data is available on [GitHub](https://github.com/arpie71/CBIdata). Please download.  

@@ -1,0 +1,12 @@
+---
+title: "NER Pipeline"
+collection: software
+type: "statistics"
+venue: "UC San Francisco, Department of Testing"
+date: 2024-03-01
+location: "San Francisco, California"
+---
+
+One of the big projects I worked on at History Lab was Named Entity Recognition/Linking on our millions of documents. I set up a pipeline to train a spaCy model in Python for the particular characteristics of our documents and then created a Knowledge Base to identify specific entities within the documents and link them to their Wikidata ID. For entities with the same name, I wrote up a script that would distinguish the entities based on the other entities mentioned in the document. 
+
+The repository with the different scripts is available on [GitHub](https://github.com/arpie71/NERpipeline2).

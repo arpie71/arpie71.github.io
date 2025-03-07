@@ -1,0 +1,10 @@
+---
+title: "Interwar trade data"
+collection: datasets
+type: "datasets"
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
+---
+
+Joanne Gowa and I collected bilateral trade data for the years before 1950 mainly from trade yearbooks and statistical abstracts for different countries and territories. As such, the trade data is almost always represented in the domestic currency. We then collected exchange rate data from a variety of sources in order to convert the trade data into US dollars. The data is available on [GitHub](https://github.com/arpie71/interwar). Please download. 

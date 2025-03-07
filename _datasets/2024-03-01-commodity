@@ -1,0 +1,10 @@
+---
+title: "Commodity trade data"
+collection: datasets
+type: "datasets"
+venue: "UC San Francisco, Department of Testing"
+date: 2024-03-01
+location: "San Francisco, California"
+---
+
+A few years ago, I starting collecting commodity-level trade data for the period 1946 to 1961 for as many countries as possible. This would fill in the gap between the end of World War II and the beginning of COMTRADE's collection. Between one thing and another, the project stalled. I am uploading the data I did collect in the hopes that someone could find a use for it. The data is available on [GitHub](https://github.com/arpie71/commodity).   

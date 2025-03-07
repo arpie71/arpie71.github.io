@@ -1,0 +1,12 @@
+---
+title: "Causal Mediation Analysis"
+collection: software
+type: "statistics"
+venue: "UC San Francisco, Department of Testing"
+date: 2014-03-01
+location: "San Francisco, California"
+---
+
+Mediation for Stata estimates the role of particular causal mechanisms that mediate a relationship between treatment and outcome variables. The command calculates causal mediation effects and direct effects for models with continuous or binary dependent variables using methods presented in Imai et al 2010. It also calculates sensitivity analyses for mediation effects that are necessary due to non-random assignment of mediating variable. Our package replaces earlier approaches like the "Baron-Kenny" method and "Sobel test" for the case of continuous mediator and outcome variables, producing identical results as these earlier methods but not put in a causal inference framework and with sensitivity analyses to the key identification assumption. For models with binary mediators or outcomes, correct calculation of mediation effects are implemented that take into account the use of non-linear models such as probit.
+
+The package is available from ssc and can be installed in Stata by typing `ssc install mediation`.

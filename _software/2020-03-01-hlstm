@@ -1,0 +1,12 @@
+---
+title: "HLSTM"
+collection: software
+type: "statistics"
+venue: "UC San Francisco, Department of Testing"
+date: 2020-03-01
+location: "San Francisco, California"
+---
+
+At History Lab, we used the [Structural Topic Model package](https://cran.r-project.org/web/packages/stm/index.html) for R to run topic modeling on all our collections. I wrote some functions and created an R package to make it easier to run the analysis across all our corpora. 
+
+Note that these functions are largely wrappers for functions already in the STM package.

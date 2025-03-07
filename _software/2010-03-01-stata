@@ -1,0 +1,12 @@
+---
+title: "Stata utilities"
+collection: software
+type: "statistics"
+venue: "UC San Francisco, Department of Testing"
+date: 2010-03-01
+location: "San Francisco, California"
+---
+
+I have written several [utility commands for Stata](https://github.com/arpie71/Stata). While I was at Princeton and helping political scientists merge different datasets, I got tired of trying to keep track of different country coding schemes. So I wrote `ccode` to translate between different coding schemes: IMF, World Bank, Correlates of War, Banks Cross National Time Series, and country name. I wrote `ctyfind` to look up a country name based on one of the classification codes or vice versa. For scholars who use Dropbox, I wrote `dropbox` which looks for the Dropbox directory on a computer. Because different individuals had Dropbox in different locations, the command was designed to ease collaboration on do files.    
+
+To install any of the packages, put the files in the ado/plus/c directory. The location can be found by typing sysdir in Stata and looking for the PLUS location. You might have to add a "c" directory. 

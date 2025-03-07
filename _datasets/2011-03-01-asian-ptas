@@ -1,0 +1,10 @@
+---
+title: "Asian PTAs data"
+collection: datasets
+type: "datasets"
+venue: "UC San Francisco, Department of Testing"
+date: 2011-03-01
+location: "San Francisco, California"
+---
+
+Soo Yeon Kim and I coded the provisions of Asian PTAs in order to establish a credibility measure. We used the data in our _Journal of East Asian Studies_ and _World Trade Review_ articles. The raw data is available [here](/files/asianptas.zip).   
